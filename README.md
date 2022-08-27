@@ -2,11 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, in order to get the node_modules folder into your application, run: 
 
 ```bash
-npm run dev
-# or
+yarn
+```
+
+Second, in order to get the application running at port 3000, run:
+
+```bash
 yarn dev
 ```
 
